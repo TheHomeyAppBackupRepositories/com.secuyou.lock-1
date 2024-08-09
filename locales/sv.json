@@ -1,0 +1,5 @@
+{
+    "handle-open": "Handtaget är öppet - låset kan inte låsas!",  
+    "handle-just-open": "Handtaget är nu öppet",
+    "handle-just-closed": "Handtaget är nu stängt"
+}

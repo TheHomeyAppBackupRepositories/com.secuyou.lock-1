@@ -1,0 +1,5 @@
+- Lås terrassedøren op udefra med en Secuyou Smart Lock
+- Lås og lås op fra hele verden
+- Lås automatisk når du går hjemmefra
+- Lås op på UNLOCK-knappen på låsen når du skal ud på terrassen
+- Registrér når håndtaget åbnes og lukkes

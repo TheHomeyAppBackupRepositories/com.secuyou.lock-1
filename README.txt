@@ -1,0 +1,5 @@
+- Get access through your patio door with the Secuyou Smart Lock
+- Lock and Unlock the door from anyware
+- Lock automatically when you exit home
+- Unlock on the UNLOCK button on the lock when you want to go on your terrasse
+- Detects opening and closing of the door handle

@@ -1,0 +1,5 @@
+- Tillträde från utsidan med ditt Secuyou Smart Lock
+- Lås och lås upp dörren var som helst
+- Lås automatiskt när du lämnar hemmet
+- Lås upp på UNLOCK-knappen när du vill gå ut på din terrass
+- Upptäcker öppning och stängning av dörrhandtaget

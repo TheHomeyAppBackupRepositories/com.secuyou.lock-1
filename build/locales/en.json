@@ -1,0 +1,5 @@
+{
+    "handle-open": "Handle is open - lock cannot lock!",
+    "handle-just-open": "Handle is now open",
+    "handle-just-closed": "Handle is now closed"
+}

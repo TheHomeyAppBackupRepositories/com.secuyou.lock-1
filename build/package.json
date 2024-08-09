@@ -1,0 +1,14 @@
+{
+  "name": "com.secuyou.lock",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/homey": "npm:homey-apps-sdk-v3-types@^0.2.2"
+  },
+  "dependencies": {
+    "bootstrap-pincode-input": "^3.0.1"
+  }
+}
